@@ -122,12 +122,16 @@ SQL / Database Fundamentals            ███████████░░�
 
 ### 📌 Featured Projects
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62E2E,100:2C5364&height=4&width=100%"/>
+
 <table>
 <tr>
 <td width="50%">
 
-**🛡️ [SentinelAI](https://github.com/Kishan77888)**
-Insider Threat Detection Platform
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:D62E2E&height=45&text=🛡️%20SentinelAI&fontSize=18&fontColor=ffffff&fontAlignY=65&width=100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1500&color=2EE6A8&center=true&vCenter=true&width=430&lines=Insider+Threat+Detection+Platform;92-95%25+Detection+Accuracy;Python+%2B+FastAPI+%2B+Machine+Learning" />
+
 `Python` `FastAPI` `Machine Learning`
 - Real-time monitoring of user activity for anomalous behavior
 - 92–95% detection accuracy on test scenarios
@@ -135,24 +139,32 @@ Insider Threat Detection Platform
 - Alert workflow modeled after Splunk-style SIEM triage
 - Findings mapped to MITRE ATT&CK techniques
 
+[🔗 View Repository](https://github.com/Kishan77888)
+
 </td>
 <td width="50%">
 
-**🌐 [Encrypted Traffic Threat Detection](https://github.com/Kishan77888)**
-ML-Based Threat Detection System
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:2EE6A8&height=45&text=🌐%20Traffic%20Threat%20Detection&fontSize=16&fontColor=ffffff&fontAlignY=65&width=100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1500&color=2EE6A8&center=true&vCenter=true&width=430&lines=ML-Based+Threat+Detection+System;Flags+DDoS%2C+Port+Scans+%26+C2+Traffic;Works+on+Encrypted+TLS" />
+
 `Python` `Scikit-learn` `Wireshark`
 - Flags DDoS, port scanning & C2 traffic
 - Works inside encrypted TLS without decrypting payloads
 - Trained on large-scale PCAP datasets
 - 92–95% accuracy on known attack patterns
 
+[🔗 View Repository](https://github.com/Kishan77888)
+
 </td>
 </tr>
 <tr>
 <td width="100%" colspan="2">
 
-**📡 [Dynamic-5g-slicing](https://github.com/Kishan77888/Dynamic-5g-slicing)**
-Dynamic 5G Network Slicing Security Analysis
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2EE6A8&height=45&text=📡%20Dynamic-5g-slicing&fontSize=18&fontColor=ffffff&fontAlignY=65&width=100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1500&color=2EE6A8&center=true&vCenter=true&width=600&lines=Dynamic+5G+Network+Slicing+Security+Analysis;Simulated+eMBB%2C+URLLC+%26+mMTC+Slices;Found+Slice+Hijacking+%26+Resource+Exhaustion+Risks" />
+
 `Kali Linux` `VMware` `3GPP Standards`
 - Simulated 3GPP-based 5G network slices (eMBB, URLLC, mMTC) in a virtualized lab
 - Ran Nmap scans and vulnerability assessments against simulated nodes
@@ -160,9 +172,13 @@ Dynamic 5G Network Slicing Security Analysis
 - Investigated findings using the NIST Incident Response Framework
 - Proposed mitigations aligned with 3GPP and 5G security standards
 
+[🔗 View Repository](https://github.com/Kishan77888/Dynamic-5g-slicing)
+
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62E2E,100:2C5364&height=4&width=100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:2EE6A8&height=3&width=100%"/>
 
@@ -183,24 +199,27 @@ This loop is the same structure I used across SentinelAI, the encrypted-traffic 
 
 ### 🗓 Education & Journey
 
-```
-2022 ─────────────────────────────────────────────────────────► 2026
- │
- ├─ Aug 2022   Started B.E. CSE (Information Security), Chandigarh University
- │
- ├─ 2023–24    Built foundation in networking, Linux, and Python
- │
- ├─ 2024–25    Started hands-on security tooling — Splunk, Wireshark, Nmap, Kali
- │
- ├─ 2025       Built SentinelAI, ML-based encrypted traffic detection project
- │             Completed IBM, Cisco & Google Cybersecurity certifications
- │             Hackathon Finalist — Stack Sprint 1.0
- │
- ├─ 2025–26    5G Network Slicing Security research project
- │             20+ TryHackMe rooms (SOC Level 1, DFIR)
- │
- └─ Jun 2026   Graduated — actively interviewing for SOC / Security / Backend roles
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=2EE6A8&center=true&vCenter=true&width=700&lines=4+Years+of+Building%2C+Breaking%2C+and+Defending+Systems;From+First+Line+of+Python+to+ML-Based+Threat+Detection" />
+
+<table>
+<tr><td width="15%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:2EE6A8&height=40&text=2022&fontSize=16&fontColor=ffffff&fontAlignY=65&width=100%"/></td>
+<td width="85%">🎓 Started <b>B.E. CSE (Information Security)</b>, Chandigarh University — CGPA: <b>7.39/10</b></td></tr>
+
+<tr><td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:2EE6A8&height=40&text=2023-24&fontSize=15&fontColor=ffffff&fontAlignY=65&width=100%"/></td>
+<td>🌱 Built foundation in networking, Linux, and Python</td></tr>
+
+<tr><td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:2EE6A8&height=40&text=2024-25&fontSize=15&fontColor=ffffff&fontAlignY=65&width=100%"/></td>
+<td>🛠️ Started hands-on security tooling — Splunk, Wireshark, Nmap, Kali Linux</td></tr>
+
+<tr><td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:D62E2E&height=40&text=2025&fontSize=16&fontColor=ffffff&fontAlignY=65&width=100%"/></td>
+<td>🛡️ Built <b>SentinelAI</b> & the ML-based encrypted traffic detection project<br/>📜 Completed IBM, Cisco & Google Cybersecurity certifications<br/>🏆 Hackathon Finalist — Stack Sprint 1.0</td></tr>
+
+<tr><td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2EE6A8&height=40&text=2025-26&fontSize=15&fontColor=ffffff&fontAlignY=65&width=100%"/></td>
+<td>📡 Dynamic 5G Network Slicing Security research<br/>🚩 20+ TryHackMe rooms completed (SOC Level 1, DFIR)</td></tr>
+
+<tr><td><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A8,100:0F2027&height=40&text=Jun+2026&fontSize=14&fontColor=ffffff&fontAlignY=65&width=100%"/></td>
+<td>🚀 Graduated with a <b>7.39 CGPA</b> — actively interviewing for SOC / Cybersecurity / Backend roles</td></tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:2EE6A8&height=3&width=100%"/>
 
