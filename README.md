@@ -226,8 +226,8 @@ This loop is the same structure I used across SentinelAI, the encrypted-traffic 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kishan77888&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan77888&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Kishan77888&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kishan77888&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
