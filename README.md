@@ -253,7 +253,7 @@ This loop is the same structure I used across SentinelAI, the encrypted-traffic 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kishan77888&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-trophies.vercel.app/?username=Kishan77888&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:2EE6A8&height=3&width=100%"/>
